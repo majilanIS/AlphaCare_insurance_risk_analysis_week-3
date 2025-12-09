@@ -1,0 +1,5 @@
+outs:
+- md5: cf0be2ea29440acd9b3db7562a159db0
+  size: 28645793
+  hash: md5
+  path: best_regressor.joblib
