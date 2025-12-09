@@ -4,22 +4,22 @@ __pycache__/
 *$py.class
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
-# Environment
+# Python virtual environments
 .env
 .venv/
 env/
 venv/
 ENV/
 
-# IDEs and editors
+# IDEs and Editors
 .vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
 
-# OS files
+# OS-specific files
 .DS_Store
 Thumbs.db
 
@@ -28,6 +28,6 @@ Thumbs.db
 *.tmp
 *.bak
 
-# Output files (if any)
+# Output directories (optional)
 output/
 results/
